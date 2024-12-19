@@ -244,7 +244,7 @@ jobs:
 
 -------------
 
-<a><img src='https://i.imgur.com/VSVRZsX.gif'/></a>
+<a><img src='https://qu.ax/YuMvW.jpg'/></a>
 
 ------------
 
