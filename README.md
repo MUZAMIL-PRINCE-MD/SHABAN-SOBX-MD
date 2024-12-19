@@ -27,10 +27,10 @@ src="https://cardivo.vercel.app/api?name=MUZAMIL%20PRINCE%20MD%20V2&description=
 
 <p align="center">
 <a href="https://github.com/MRMUZAMIL/"><img title="Followers" src="https://img.shields.io/github/followers/MRMUZAMIL?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRMUZAMIL/MUZAMIL-PRINCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRMUZAMIL/MUZAMIL-PRINCE-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRMUZAMIL/MUZAMIL-PRINCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRMUZAMIL/MUZAMIL-PRINCR-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRMUZAMIL/MUZAMIL-PRINCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MRMUZAMIL/MUZAMIL-PRINCE-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/MRMUZAMIL/MUZAMIL-PRINCE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/MRMUZAMIL/MUZAMIL-PRINCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MUZAMIL-PRINCE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/MUZAMIL-PRINCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MUZAMIL-PRINCR-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/MUZAMIL-PRINCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MUZAMIL-PRINCE-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/MUZAMIL-PRINCE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -54,13 +54,13 @@ src="https://cardivo.vercel.app/api?name=MUZAMIL%20PRINCE%20MD%20V2&description=
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRMUZAMIL%2FMUZAMIL-PRINCE-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/MRMUZAMIL/MUZAMIL-PRINCE-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/MUZAMIL-PRINCE-MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/MRMUZAMIL/MUZAMIL-PRINCE-MD?style=social)
+![stars](https://img.shields.io/github/stars/MUZAMIL-PRINCE-MD?style=social)
 
 
-[![FORK MUZAMIL-PRINCE-MD](https://img.shields.io/badge/FORK%20-MUZAM%20PRINCE%20MD-white)](https://github.com/MRMUZAMIL/MUZAMIL-PRINCE-MD/fork)
+[![FORK MUZAMIL-PRINCE-MD](https://img.shields.io/badge/FORK%20-MUZAM%20PRINCE%20MD-white)](https://github.com/MUZAMIL-PRINCE-MD/fork)
 
 `❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁`
 
@@ -139,7 +139,7 @@ src="https://cardivo.vercel.app/api?name=MUZAMIL%20PRINCE%20MD%20V2&description=
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRMUZAMIL/MUZAMIL-PRINCE-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MUZAMIL-PRINCE-MD)
 
 ----------
 
@@ -149,7 +149,7 @@ src="https://cardivo.vercel.app/api?name=MUZAMIL%20PRINCE%20MD%20V2&description=
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/MRMUZAMIL/MUZAMIL-PRINCE-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/MUZAMIL-PRINCE-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
