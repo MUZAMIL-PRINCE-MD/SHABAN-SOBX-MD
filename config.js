@@ -25,6 +25,6 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
     BOT_NAME: process.env.BOT_NAME || "➺ᴍʀ_sʜᴀʙᴀɴ",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү sʜᴀʙᴀɴ-sσвx-мᴅ`",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү ᴍᴜᴢᴀᴍɪʟ-ᴘʀɪɴᴄᴇ-ᴍᴅ`",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
