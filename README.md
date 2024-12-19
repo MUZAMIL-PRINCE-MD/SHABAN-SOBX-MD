@@ -252,8 +252,8 @@ jobs:
 
 -------------------
 
-<a><img src='https://qu.ax/YuMvW.jpg'/></a>
-<a><img src='https://i.imgur.com/DzrdW5g.gif'/></a>
+<a><img src=''/></a>
+<a><img src=''/></a>
 
 -----------
 
