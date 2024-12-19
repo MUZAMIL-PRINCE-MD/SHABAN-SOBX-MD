@@ -1,6 +1,6 @@
 ---------
 
-### <br>  📡 SHABAN-SOBX-MD 📡
+### <br>  📡 MUZAMIL-PRINCE-MD 📡
 💛 **`THE WORLD BEST WHATSAPP BOT CREATED BY MRSHABAN`** 💛
 
 ----------
